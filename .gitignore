@@ -1,0 +1,8 @@
+pytorch_env/
+data/
+Airbus Wind Turbines Patches/
+supervised_checkpoints/
+supervised_resnet_checkpoints/
+finetuning/
+classificator_with_swav/
+kaggle-dataset-archive.zip
