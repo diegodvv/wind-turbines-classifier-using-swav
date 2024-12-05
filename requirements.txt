@@ -1,2 +1,15 @@
 seaborn
 lightly
+tensorboard
+seaborn
+matplotlib
+scikit-learn
+torchmetrics
+numpy
+pillow
+notebook # jupyter notebook
+
+# These should be installed separately following the pytorch site
+# torch
+# torchvision
+# torchaudio
